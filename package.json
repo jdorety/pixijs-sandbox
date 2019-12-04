@@ -1,0 +1,22 @@
+{
+  "name": "pixijs-sandbox",
+  "version": "1.0.0",
+  "description": "Pixi JS sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyullog/pixijs-sandbox.git"
+  },
+  "author": "Jonathan Dorety",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyullog/pixijs-sandbox/issues"
+  },
+  "homepage": "https://github.com/kyullog/pixijs-sandbox#readme",
+  "dependencies": {
+    "pixi.js": "^5.2.0"
+  }
+}
